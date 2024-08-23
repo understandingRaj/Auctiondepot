@@ -1,0 +1,111 @@
+export const  accessories=[
+
+    {
+        id:1,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:2,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:3,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:4,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:5,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:6,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:7,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:8,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:9,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:10,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:11,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:12,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:13,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:14,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:15,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:16,
+        carimg:"../img/p1.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+    {
+        id:17,
+        carimg:"../img/p2.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 48,500",      
+    },
+    {
+        id:18,
+        carimg:"../img/p3.jpg",
+        title:"OnePlus 11R 5G 8GB 128GB",
+        price:"₹ 39,500",      
+    },
+]

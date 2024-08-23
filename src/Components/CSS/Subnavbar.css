@@ -1,0 +1,78 @@
+.subnavbar {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    top: 5rem;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    border-radius: 2px;
+    z-index: 1;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.subnavbar ul {
+    display: flex;
+    padding-top: 10px;
+}
+
+.subnavbar ul a {
+    text-decoration: none;
+    padding: 0.5rem;
+    color: black;
+    font-weight: 600;
+
+}
+
+.subnavbar ul li {
+    list-style: none;
+    font-size: 0.9rem;
+}
+
+.subnavbar_right ul {
+    margin-right: 2rem;
+
+}
+
+.dropdown-box {
+    width: 30%;
+    position: absolute;
+    top: 3.5rem;
+    background-color: whitesmoke;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border: 1px solid red;
+}
+
+.dropdown-box h6 {
+    /* padding: 1rem 1.5rem; */
+    /* padding: 1rem 0 0 1rem; */
+    color: #999797;
+    font-weight: 550;
+
+}
+
+.dropdown-box ul {
+    text-align: center;
+    padding: 0;
+
+}
+
+.dropdown-box ul li {
+    display: flex;
+    flex-direction: column;
+}
+
+.dropdown-box ul li a {
+    font-size: 1.5rem;
+}
+
+.dropdown-box ul li span {
+    font-weight: 550;
+}
+.dropdown-box .automobile ul{
+    justify-content: space-evenly;
+}
+.dropdown-box div{
+    margin-left: 1rem;
+}

@@ -1,0 +1,25 @@
+.faq-outer{
+    width: 60%;
+    position: absolute;
+    top: 3.5rem;
+    right: 1rem;
+    background-color: whitesmoke;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    overflow-y: scroll;
+    height: 80vh;
+    border: 1px solid red;
+}
+.faq-outer .faq-inner {
+    padding: 1rem;
+}
+.faq-outer .faq-inner h5{
+    font-weight: 600;
+}
+.faq-list ul{
+    display: flex;
+    flex-direction: column;
+}
+.faq-list ul li{
+    list-style-type: lower-alpha;
+}

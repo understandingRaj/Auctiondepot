@@ -1,0 +1,64 @@
+
+.rightsidebar{
+    padding-top: 2rem;
+    height:100vh;
+    overflow-y: scroll;
+}
+.rightsidebar ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 0;
+  
+}
+.rightsidebar ul li{
+    list-style: none;
+}
+.rightsidebar .list-group{
+    display: flex;
+    flex-direction: row;
+}
+.rightsidebar .list-group span{
+    font-size: 0.7rem;
+}
+.rightsidebar .list-group icon{
+    font-size: 2rem;
+}
+.rightsidebar .list-group li{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+    border: transparent;
+}
+.rightsidebar .list-group-item {
+    padding: 0.5rem;
+}
+.rightsidebar .card-text{
+    float: left;
+}
+.rightsidebar .icons ul{
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.rightsidebar .card{
+    border: 1px solid #ddd;
+    width: 18rem;
+    padding: 1rem;
+    margin-right: 1.5rem;
+    margin-bottom: 2rem;
+}
+.rightsidebar .card-title{
+    font-size: 1rem;
+}
+.rightsidebar .card img{
+    width: 16rem;
+    height: 8rem;
+}
+.notfound{
+  display: flex;
+  justify-content: center;
+}
+.notfound img{
+    width: 30rem;
+    border-radius: 1rem;
+}

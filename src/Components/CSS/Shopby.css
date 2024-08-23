@@ -1,0 +1,35 @@
+.shopby ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shopby ul li {
+    padding:0 0.4rem;
+    list-style: none;
+    
+}
+.shopby ul li a{
+    text-decoration: none;
+    color: black;
+}
+.shopby img{
+    border-radius: 50%;
+    width: 9rem;
+}
+.card-text{
+    text-align: center;
+}
+.card{
+    border: transparent;
+}
+.shopby{
+    position:relative;
+    top:10rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.shopby h1{
+    margin-bottom: 2rem;
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: red;
+    text-shadow: 2px 1px 3px black;    
+}

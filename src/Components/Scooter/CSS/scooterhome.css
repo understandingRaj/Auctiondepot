@@ -1,0 +1,17 @@
+.col-left{
+    width:22%;
+}
+.col-right{
+    width: 75%;
+}
+.cars-bothside{
+    display: flex;
+}
+@media(max-width:768px){
+    .col-left{
+        display: none;
+    }
+    .col-right{
+        width: 100%;
+    }
+}
